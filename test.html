@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head>
+
+</head>
+<body>
+    
+<code class="language-python" id="code_id_0">
+    <span class="token keyword">def</span> 
+    <span class="token function">levenshtein_distance</span>
+        <span class="token punctuation">(</span>s1<span
+        class="token punctuation">,</span> s2<span class="token punctuation">)</span><span
+        class="token punctuation">:</span>
+    <span class="token keyword">if</span> <span class="token builtin">len</span><span
+        class="token punctuation">(</span>s1<span class="token punctuation">)</span> <span
+        class="token operator">&lt;</span> <span class="token builtin">len</span><span
+        class="token punctuation">(</span>s2<span class="token punctuation">)</span><span
+        class="token punctuation">:</span>
+    <span class="token keyword">return</span> levenshtein_distance<span class="token punctuation">(</span>s2<span
+        class="token punctuation">,</span> s1<span class="token punctuation">)</span>
+
+    <span class="token keyword">if</span> <span class="token builtin">len</span><span
+        class="token punctuation">(</span>s2<span class="token punctuation">)</span> <span
+        class="token operator">==</span> <span class="token number">0</span><span class="token punctuation">:</span>
+    <span class="token keyword">return</span> <span class="token builtin">len</span><span
+        class="token punctuation">(</span>s1<span class="token punctuation">)</span>
+
+    previous_row <span class="token operator">=</span> <span class="token builtin">range</span><span
+        class="token punctuation">(</span><span class="token builtin">len</span><span
+        class="token punctuation">(</span>s2<span class="token punctuation">)</span> <span
+        class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">)</span>
+    <span class="token keyword">for</span> i<span class="token punctuation">,</span> c1 <span
+        class="token keyword">in</span> <span class="token builtin">enumerate</span><span
+        class="token punctuation">(</span>s1<span class="token punctuation">)</span><span
+        class="token punctuation">:</span>
+    current_row <span class="token operator">=</span> <span class="token punctuation">[</span>i <span
+        class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">]</span>
+    <span class="token keyword">for</span> j<span class="token punctuation">,</span> c2 <span
+        class="token keyword">in</span> <span class="token builtin">enumerate</span><span
+        class="token punctuation">(</span>s2<span class="token punctuation">)</span><span
+        class="token punctuation">:</span>
+    insertions <span class="token operator">=</span> previous_row<span class="token punctuation">[</span>j <span
+        class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">]</span>
+    <span class="token operator">+</span> <span class="token number">1</span>
+    deletions <span class="token operator">=</span> current_row<span class="token punctuation">[</span>j<span
+        class="token punctuation">]</span> <span class="token operator">+</span> <span class="token number">1</span>
+    substitutions <span class="token operator">=</span> previous_row<span class="token punctuation">[</span>j<span
+        class="token punctuation">]</span> <span class="token operator">+</span> <span
+        class="token punctuation">(</span>c1 <span class="token operator">!=</span> c2<span
+        class="token punctuation">)</span>
+    current_row<span class="token punctuation">.</span>append<span class="token punctuation">(</span><span
+        class="token builtin">min</span><span class="token punctuation">(</span>insertions<span
+        class="token punctuation">,</span> deletions<span class="token punctuation">,</span> substitutions<span
+        class="token punctuation">)</span><span class="token punctuation">)</span>
+    previous_row <span class="token operator">=</span> current_row
+
+    <span class="token keyword">return</span> previous_row<span class="token punctuation">[</span><span
+        class="token operator">-</span><span class="token number">1</span><span class="token punctuation">]</span> <span
+        class="token operator">/</span> <span class="token builtin">max</span><span
+        class="token punctuation">(</span><span class="token builtin">len</span><span
+        class="token punctuation">(</span>s1<span class="token punctuation">)</span><span
+        class="token punctuation">,</span> <span class="token builtin">len</span><span
+        class="token punctuation">(</span>s2<span class="token punctuation">)</span><span
+        class="token punctuation">)</span>
+
+    s1 <span class="token operator">=</span> <span class="token string">"kitten"</span>
+    s2 <span class="token operator">=</span> <span class="token string">"sitting"</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span>levenshtein_distance<span
+        class="token punctuation">(</span>s1<span class="token punctuation">,</span> s2<span
+        class="token punctuation">)</span><span class="token punctuation">)</span>
+</code>
+</body>

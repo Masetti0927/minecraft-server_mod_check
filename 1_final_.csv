@@ -1,0 +1,173 @@
+index,real-mod,which-found,server,clinet
+698,autoreglib,autoreglib, 客户端需装, 服务端需装
+4485,balm,balm, 客户端需装, 服务端需装
+3434,architectury,architectury-api, 客户端可选, 服务端可选
+938,bookshelf,bookshelf, 客户端需装, 服务端需装
+2575,blueprint,blueprint, 客户端需装, 服务端需装
+2458,caelus,caelus, 客户端需装, 服务端需装
+6522,aquatictorches,aquatic-torches, 客户端需装, 服务端需装
+2232,citadel,citadel, 客户端需装, 服务端需装
+3989,cardinalcomponentspi,cardinal-components, 客户端需装, 服务端需装
+2346,clothconfig,cloth-config, 客户端可选, 服务端可选
+706,coroutil,coroutil, 客户端需装, 服务端需装
+669,crafttweaker,crafttweaker, 客户端需装, 服务端需装
+1283,creativecore,creativecore, 客户端需装, 服务端无效
+2652,collective,collective, 客户端可选, 服务端可选
+7412,anvilnevertooexpensive,nevertooexpensive, 客户端可选, 服务端需装
+2029,curios,curios, 客户端需装, 服务端需装
+8475,chefsdelight,chefs-delight, 客户端需装, 服务端需装
+4142,cupboard,clipboard, 客户端需装, 服务端需装
+5009,distanthorizons,distant-horizons, 客户端需装, 服务端无效
+4985,expandability,expandability, 客户端需装, 服务端需装
+4053,fancymenu,fancymenu, 客户端需装, 服务端可选
+12028,embeddium,embeddium, 客户端需装, 服务端无效
+12822,embeddiumplus,embeddiumplus, 客户端需装, 服务端无效
+3184,ftblibrary,ftb-library-, 客户端需装, 服务端需装
+1423,ftbquests,ftb-quests-, 客户端需装, 服务端需装
+8277,friendlyfire,friendly-fire, 客户端需装, 服务端需装
+3205,jeitweaker,jeitweaker, 客户端需装, 服务端需装
+5838,feature_nbt_deadlock_be_gone,feature-nbt-deadlock-be-gone, 客户端需装, 服务端需装
+855,justenoughresources,just-enough-resources-jer, 客户端需装, 服务端无效
+1290,kiwi,kiwi, 客户端需装, 服务端需装
+4213,konkrete,konkrete, 客户端需装, 服务端无效
+7734,jsonthings,json-things, 客户端需装, 服务端需装
+None,fdcookbookbeta,None
+2890,kotlinfor,kotlin-for-, 客户端可选, 服务端可选
+3407,lazydfu,lazydfu, 客户端可选, 服务端需装
+11182,golemsarefriends,golemsarefriends, 客户端需装, 服务端需装
+4980,majruszlibrary,majrusz-library, 客户端需装, 服务端需装
+7415,letmedespawn,let-me-despawn, 客户端可选, 服务端需装
+13601,melody,melody, 客户端需装, 服务端无效
+5741,oculus,oculus, 客户端需装, 服务端无效
+9830,oceansdelight,oceans-delight, 客户端需装, 服务端需装
+3170,panorama,runorama, 客户端需装, 服务端无效
+4580,puzzleslib,puzzles-lib, 客户端需装, 服务端需装
+10311,modernworldcreation,modernworldcreation, 客户端需装, 服务端无效
+7756,quit,quit, 客户端需装, 服务端无效
+1716,scalinghealth,scaling-health, 客户端需装, 服务端需装
+4159,selene,selene, 客户端需装, 服务端需装
+1363,silentlib,silent-lib, 客户端需装, 服务端需装
+13356,quark_delight,quark-delight, 客户端需装, 服务端需装
+6793,structory,structory, 客户端需装, 服务端需装
+None,reliquary,None
+4565,tinkers'_delight,tinkers-delight, 客户端需装, 服务端需装
+13747,tconjei,tconjei, 客户端需装, 服务端无效
+None,l_enders_cataclysmchanged_them,None
+12476,structureessentials,structure-essentials-, 服务端需装
+11065,tinkerskatanas,tinkers-katanas, 客户端需装, 服务端需装
+9720,tinkers_thinking,tinkers-thinking, 客户端需装, 服务端需装
+10502,tinkers_ingenuity,tinkers_ingenuity, 客户端需装, 服务端需装
+3851,whatsthatslot,whats-that-slot, 客户端需装, 服务端无效
+9863,tradecycling,trade-cycling, 客户端需装, 服务端需装
+3372,yungsapi,yungs-api, 客户端可选, 服务端需装
+1480,aiimprovements,ai-improvements, 客户端可选, 服务端可选
+None,watut,None
+1815,fpsreducer,fps-reducer, 客户端需装, 服务端无效
+459,jei,jei, 客户端需装, 服务端可选
+3179,ftbteams,ftb-teams-, 客户端需装, 服务端需装
+2077,jeiintegration,jei-integration, 客户端需装, 服务端无效
+2077,jerintegration,jei-integration, 客户端需装, 服务端无效
+4568,majruszsccessories,majruszs-accessories, 客户端需装, 服务端需装
+7329,textrues_embeddium_options,textrues-rubidium-options, 客户端需装, 服务端无效
+1483,xaerosworldmap,xaeros-world-map, 客户端需装, 服务端可选
+15979,tradeenchantmentdisplay,trade-enchantment-display, 客户端需装, 服务端无效
+1701,xaeros_minimap,xaeros-minimap, 客户端需装, 服务端可选
+2788,yungsbettermineshafts,yungs-better-mineshafts-, 客户端可选, 服务端需装
+883,customskinloader,customskinloader, 客户端需装, 服务端无效
+None,majruszsdifficulty,None
+811,netherportalfix,netherportalfix, 客户端可选, 服务端需装
+1339,waystones,waystones, 客户端需装, 服务端需装
+4563,nethersdelight,nethers-delight, 客户端需装, 服务端需装
+408,storagedrawers,storage-drawers, 客户端需装, 服务端需装
+4288,taxfreelevels,tax-free-levels, 客户端需装, 服务端需装
+3170,panorama,runorama, 客户端需装, 服务端无效
+12175,yungsbetterendisland,yungs-better-end-island, 客户端需装, 服务端需装
+2820,farmersdelight,farmers-delight, 客户端需装, 服务端需装
+5074,iceberg,iceberg, 客户端需装, 服务端可选
+None,torohealth,None
+2120,tinkerthings,tinkers-things, 客户端需装, 服务端需装
+None,windowskeyboardfixestotleast,None
+4832,observable,observable, 客户端可选, 服务端需装
+1501,craftingtweaks,crafting-tweaks, 客户端可选, 服务端可选
+3162,passablefoliage,passable-foliage, 客户端需装, 服务端需装
+329,mantle,mantle, 客户端需装, 服务端需装
+2353,goblintraders,goblin-traders, 客户端需装, 服务端需装
+None,tconstruct,None
+1893,trashslot,trashslot, 客户端可选, 服务端需装
+4647,stalwartdungeons,stalwart-dungeons, 客户端需装, 服务端需装
+None,tconplanner,None
+527,quark,quark, 客户端需装, 服务端需装
+527,quark,quark, 客户端需装, 服务端需装
+2049,rex'sdditionalstructures,additional-structures, 客户端可选, 服务端需装
+9114,labels,labels, 客户端需装, 服务端需装
+3058,entityculling,entity-culling, 客户端需装, 服务端无效
+4228,cherishedworlds,cherished-worlds, 客户端需装, 服务端无效
+2012,clienttweaks,client-tweaks, 客户端需装, 服务端无效
+2264,attributefix,attributefix, 客户端需装, 服务端需装
+1388,patchouli,patchouli, 客户端需装, 服务端需装
+2441,notenoughcrashes,not-enough-crashes, 客户端可选, 服务端可选
+3455,cleancut,cleancut, 客户端需装, 服务端无效
+None,dungeonsarise,None
+3545,constructionwand,construction-wand, 客户端需装, 服务端需装
+3131,overloadedarmorbar,overloaded-armor-bar, 客户端需装, 服务端无效
+1842,tips,sips, 客户端需装, 服务端需装
+3303,starlighte,starlight-, 客户端可选, 服务端需装
+5216,pickupnotifier,pick-up-notifier, 客户端需装, 服务端可选
+4395,explorerscompass,explorers-compass, 客户端需装, 服务端需装
+5519,bowinfinityfix,bow-infinity-fix, 客户端需装, 服务端需装
+3027,ironfurnaces,iron-furnaces, 客户端需装, 服务端需装
+3072,betterspawnercontrol,better-spawner-control, 客户端可选, 服务端需装
+2950,betterpingdisplay,better-ping-display, 客户端需装, 服务端无效
+None,twilightforest,None
+5792,bettermodsbutton,better-mods-button, 客户端需装, 服务端无效
+1530,betteradvancements,better-advancements, 客户端需装, 服务端无效
+4498,mcwifipnp,mcwifipnp, 客户端需装, 服务端无效
+None,twilightdelightbeta,None
+3452,enhanced_celestials,enhanced-celestials, 客户端需装, 服务端需装
+6298,ends_delight,ends-delight, 客户端需装, 服务端需装
+1173,fastleafdecay,fast-leaf-decay, 客户端无效, 服务端需装
+6298,endersdelight,ends-delight, 客户端需装, 服务端需装
+None,endrem,None
+None,twilightdelightfrozenpride,None
+2092,healingcampfire,healing-campfire, 客户端可选, 服务端需装
+1360,gamestages,game-stages, 客户端需装, 服务端需装
+4339,superflatworldnoslimes,superflat-world-no-slimes, 客户端可选, 服务端需装
+4936,torchbowmod,torchbowmod, 客户端需装, 服务端需装
+6769,norecipebookreborn,no-recipe-book-reborn, 客户端需装, 服务端无效
+1605,itemfilters,item-filters, 客户端需装, 服务端需装
+None,invhud,None
+6881,itemphysiclite,itemphysic-lite, 客户端需装, 服务端需装
+3482,jade,jade, 客户端可选, 服务端可选
+1914,playerrevive,playerrevive, 客户端需装, 服务端需装
+None,kryptonsnapshot,None
+4514,modernui,modernxl, 客户端需装, 服务端需装
+11714,highlighter,highlight, 客户端需装, 服务端无效
+8714,modernfix,modernfix, 客户端可选, 服务端可选
+3448,shutupexperimentalsettings,shutup-experimental-settings, 客户端需装, 服务端无效
+6324,sophisticatedstorage,sophisticated-core, 客户端需装, 服务端需装
+2118,xptome,xp-tome, 客户端需装, 服务端需装
+6324,sophisticatedcore,sophisticated-core, 客户端需装, 服务端需装
+3739,sophisticatedbackpacks,sophisticated-backpacks, 客户端需装, 服务端需装
+1188,inupdatemod,i18nupdatemod, 客户端需装, 服务端无效
+1047,customcrosshairmod,custom-crosshair-mod, 客户端需装, 服务端无效
+None,toughnessbar,None
+744,appleskin,appleskin, 客户端需装, 服务端可选
+4518,repurposed_structures,repurposed-structures, 客户端可选, 服务端需装
+5295,voidtotem,voidtotem, 客户端需装, 服务端需装
+1139,mmmmmmmmmmmm,mmmmmmmmmmmm, 客户端需装, 服务端需装
+5532,drippyloadingscreen,drippy-loading-screen, 客户端需装, 服务端无效
+12555,packreload,opack2reload, 客户端需装, 服务端无效
+None,customcursormod,None
+3004,ftbultimine,ftb-ultimine-, 客户端需装, 服务端需装
+3007,corpse,corpse, 客户端需装, 服务端需装
+12691,passivesearchbar,passive-searchbar, 客户端需装, 服务端无效
+None,boatitemiew,None
+3212,neapolitan,neapolitan, 客户端需装, 服务端需装
+3651,configured,configured, 客户端需装, 服务端可选
+1191,controlling,controlling, 客户端需装, 服务端无效
+295,dynamiclightsred,dynamic-lights, 客户端需装, 服务端可选
+3888,ferritecore,ferritecore, 客户端可选, 服务端可选
+1162,mousetweaks,mouse-tweaks, 客户端需装, 服务端无效
+1945,enchantmentdescriptions,enchantment-descriptions, 客户端需装, 服务端无效
+None,jecharacters,None
+None,curiouselytra,None

@@ -1,0 +1,172 @@
+AnvilNeverTooExpensive 搜索到的MOD：活跃|[ANTE]|Anvil Never Too Expensive 运行环境: 客户端需装, 服务端需装
+aquatictorches 搜索到的MOD：活跃|开源|Aquatic Torches 运行环境: 客户端需装, 服务端需装
+architectury 搜索到的MOD：活跃|开源|Architectury API 运行环境: 客户端可选, 服务端可选
+AutoRegLib 搜索到的MOD：停更|开源|[ARL]|AutoRegLib 运行环境: 客户端需装, 服务端需装
+balm 搜索到的MOD：活跃|Balm 运行环境: 客户端需装, 服务端需装
+blueprint 搜索到的MOD：活跃|闭源|Blueprints - Prefabricated Structures 运行环境: 客户端需装, 服务端无效
+Bookshelf 搜索到的MOD：停更|开源|Bookshelf API Library 运行环境: 客户端需装, 服务端需装
+caelus 搜索到的MOD：活跃|开源|Caelus API 运行环境: 客户端需装, 服务端需装
+cardinal 搜索到的MOD：活跃|开源|[CCA]|Cardinal Components API 运行环境: 客户端需装, 服务端需装
+chefs 搜索到的MOD：活跃|Chef's Delight 运行环境: 客户端需装, 服务端需装
+citadel 搜索到的MOD：活跃|开源|Citadel 运行环境: 客户端需装, 服务端需装
+cloth 搜索到的MOD：停更|开源|Cloth API 运行环境: 客户端需装, 服务端需装
+collective 搜索到的MOD：活跃|Collective 运行环境: 客户端可选, 服务端可选
+coroutil 搜索到的MOD：活跃|开源|CoroUtil 运行环境: 客户端需装, 服务端需装
+CraftTweaker 搜索到的MOD：停更|开源|[CrTE]|CraftTweaker 编辑器|CraftTweaker Editor 运行环境: 客户端需装, 服务端需装
+CreativeCore 搜索到的MOD：活跃|开源|CreativeCore 运行环境: 客户端需装, 服务端无效
+cupboard 搜索到的MOD：活跃|Cupboard 运行环境: 客户端需装, 服务端需装
+curios 搜索到的MOD：活跃|开源|Adorned (Curios) 运行环境: 客户端需装, 服务端需装
+DistantHorizons 搜索到的MOD：活跃|开源|[DH]|Distant Horizons: A Level of Detail mod 运行环境: 客户端需装, 服务端无效
+embeddium 搜索到的MOD：活跃|开源|铷 · 扩展|Embeddium (Rubidium) Extra 运行环境: 客户端需装, 服务端无效
+embeddiumplus 搜索到的MOD：活跃|开源|Embeddium++ 运行环境: 客户端需装, 服务端无效
+expandability 搜索到的MOD：活跃|开源|ExpandAbility 运行环境: 客户端需装, 服务端需装
+fancymenu 搜索到的MOD：停更|[FancyMenu] Animation Maker Tool 运行环境: 客户端可选, 服务端无效
+fdcookbook 搜索到的MOD：半弃坑|开源|农夫乐事：烹饪书重制版|Farmer's Delight: CookBook Reforged 运行环境: 客户端需装, 服务端需装
+feature 搜索到的MOD：半弃坑|开源|Configured Feature Saplings 运行环境: 客户端可选, 服务端需装
+FriendlyFire 搜索到的MOD：活跃|开源|Friendly Fire 运行环境: 客户端需装, 服务端需装
+ftblibrary 搜索到的MOD：活跃|FTB Library/FTB GUI Library 运行环境: 客户端需装, 服务端需装
+ftbquests 搜索到的MOD：活跃|[FTBQ]|FTB任务|FTB Quests 运行环境: 客户端需装, 服务端需装
+golemsarefriends 搜索到的MOD：半弃坑|Golems Are Friends Not Fodder 运行环境: 客户端需装, 服务端需装
+JEITweaker 搜索到的MOD：半弃坑|开源|JEITweaker 运行环境: 客户端需装, 服务端需装
+JsonThings 搜索到的MOD：活跃|开源|Json Things 运行环境: 客户端需装, 服务端需装
+JustEnoughResources 搜索到的MOD：活跃|开源|[JER]|Just Enough Resources 运行环境: 客户端需装, 服务端无效
+Kiwi 搜索到的MOD：活跃|开源|Kiwi 🥝 运行环境: 客户端需装, 服务端需装
+konkrete 搜索到的MOD：活跃|开源|Konkrete 运行环境: 客户端需装, 服务端无效
+kotlinforforge 搜索到的MOD：活跃|开源|[KFF]|Kotlin for Forge 运行环境: 客户端可选, 服务端可选
+lazydfu 搜索到的MOD：停更|开源|DFU载入优化 [FORGE]|Lazy DataFixerUpper(LazyDFU) [FORGE] 运行环境: 客户端可选, 服务端需装
+letmedespawn 搜索到的MOD：活跃|开源|[LMD]|Let Me Despawn 运行环境: 客户端可选, 服务端需装
+L 搜索到的MOD：停更|开源|群兽行为L|Nakaroths Herdcraft L 运行环境: 客户端需装, 服务端需装
+majrusz 搜索到的MOD：活跃|开源|Majrusz的配件|Majrusz's Accessories 运行环境: 客户端需装, 服务端需装
+melody 搜索到的MOD：活跃|开源|Melody 运行环境: 客户端需装, 服务端无效
+modernworldcreation 搜索到的MOD：停更|开源|Modern World Creation 运行环境: 客户端需装, 服务端无效
+oceansdelight 搜索到的MOD：活跃|开源|海洋乐事|Ocean's Delight 运行环境: 客户端需装, 服务端需装
+oculus 搜索到的MOD：停更|开源|Oculus 运行环境: 客户端需装, 服务端无效
+panorama 搜索到的MOD：活跃|闭源|全景图|Panorama 运行环境: 客户端需装, 服务端无效
+PuzzlesLib 搜索到的MOD：活跃|开源|[PL]|Puzzles Lib 运行环境: 客户端需装, 服务端需装
+quark 搜索到的MOD：停更|开源|Quark3951号issue修复|FixQuark3951 运行环境: 服务端需装
+Quit 搜索到的MOD：活跃|开源|Quit 运行环境: 客户端需装, 服务端无效
+reliquary 搜索到的MOD：活跃|开源|圣遗物|Reliquary Reincarnations (Reliquary) / Xeno's Reliquary 运行环境: 客户端需装, 服务端需装
+ScalingHealth 搜索到的MOD：半弃坑|开源|Scaling Health 运行环境: 客户端需装, 服务端需装
+selene 搜索到的MOD：活跃|开源|Moonlight Lib/Selene 运行环境: 客户端需装, 服务端需装
+silent 搜索到的MOD：活跃|闭源|Silent Mine 运行环境: 客户端需装, 服务端需装
+Structory 搜索到的MOD：活跃|闭源|Structory 运行环境: 客户端需装, 服务端需装
+structureessentials 搜索到的MOD：活跃|闭源|Structure Essentials 运行环境: 服务端需装
+tconjei 搜索到的MOD：活跃|开源|TConJEI 运行环境: 客户端需装, 服务端无效
+Tinkers' 搜索到的MOD：活跃|开源|Tinkers' Katanas 运行环境: 客户端需装, 服务端需装
+TinkersKatanas 获取失败
+tinkers 搜索到的MOD：活跃|开源|Tinkers' Katanas 运行环境: 客户端需装, 服务端需装
+Tinkers 搜索到的MOD：活跃|开源|Tinkers' Katanas 运行环境: 客户端需装, 服务端需装
+trade 搜索到的MOD：活跃|开源|Create: Trading Floor 运行环境: 客户端需装, 服务端需装
+TradeEnchantmentDisplay 搜索到的MOD：活跃|开源|[TED]|交易附魔显示|Trade Enchantment Display 运行环境: 客户端需装, 服务端无效
+watut 搜索到的MOD：活跃|[Watut]|What Are They Up To 运行环境: 客户端需装, 服务端需装
+whats 搜索到的MOD：停更|开源|WHAT - Fluid Fix 收录时间: 5年前
+YungsApi 搜索到的MOD：活跃|开源|YUNG's API 运行环境: 客户端可选, 服务端需装
+[AI改进] AI 搜索到的MOD：活跃|开源|AI改进|AI Improvements 运行环境: 客户端可选, 服务端可选
+[FPS减速器] FpsReducer2 获取失败
+[FTB 团队] ftb 搜索到的MOD：活跃|FTB 团队|FTB Teams 运行环境: 客户端需装, 服务端需装
+[JEI扩展] jeiintegration 搜索到的MOD：活跃|开源|JEI扩展|JEI Integration 运行环境: 客户端需装, 服务端无效
+[JEI物品管理器] jei 搜索到的MOD：活跃|开源|[JEI]|JEI物品管理器|Just Enough Items 运行环境: 客户端需装, 服务端可选
+[JER集成] JER 搜索到的MOD：活跃|开源|[JERI]|JER集成|JER Integration 运行环境: 客户端需装, 服务端无效
+[Majrusz的进阶难度] majruszs 搜索到的MOD：活跃|开源|Majrusz的进阶难度|Majrusz's Progressive Difficulty 运行环境: 客户端需装, 服务端需装
+[Majrusz的配件] majruszs 搜索到的MOD：活跃|开源|Majrusz的配件|Majrusz's Accessories 运行环境: 客户端需装, 服务端需装
+[TexTrue的Embeddium视频界面] textrues 搜索到的MOD：停更|开源|[TEO]|TexTrue的Embeddium视频界面|TexTrue's Embeddium Options 运行环境: 客户端需装, 服务端无效
+[Windows 键盘修复] Windows Keyboard Fixes 获取失败
+[Xaero的世界地图] XaerosWorldMap 获取失败
+[Xaero的小地图] Xaeros 搜索到的MOD：活跃|闭源|[XMM]|Xaero的小地图|Xaero's Minimap 运行环境: 客户端需装, 服务端可选
+[YUNG的末地岛屿优化] YungsBetterEndIsland 获取失败
+[YUNG的矿井优化] YungsBetterMineshafts 获取失败
+[万用皮肤补丁] CustomSkinLoader 搜索到的MOD：活跃|开源|[CSL]|万用皮肤补丁|CustomSkinLoader 运行环境: 客户端需装, 服务端无效
+[下界乐事] NethersDelight 搜索到的MOD：活跃|开源|下界乐事：重织|Nethers Delight Refabricated 运行环境: 客户端需装, 服务端需装
+[下界传送门修正] netherportalfix 搜索到的MOD：活跃|下界传送门修正|NetherPortalFix 运行环境: 客户端可选, 服务端需装
+[传送石碑／指路石] waystones 搜索到的MOD：活跃|开源|传送石碑/指路石|Waystones 运行环境: 客户端需装, 服务端需装
+[伤害显示] torohealth 搜索到的MOD：停更|开源|ToroHealth 伤害显示|ToroHealth Damage Indicators 运行环境: 客户端需装, 服务端无效
+[储物抽屉] StorageDrawers 搜索到的MOD：活跃|开源|储物抽屉|Storage Drawers 运行环境: 客户端需装, 服务端需装
+[免税附魔] TaxFreeLevels 搜索到的MOD：活跃|开源|免税附魔|Tax Free Levels 运行环境: 客户端需装, 服务端需装
+[全景图] panorama 搜索到的MOD：活跃|闭源|全景图|Panorama 运行环境: 客户端需装, 服务端无效
+[农夫乐事] FarmersDelight 搜索到的MOD：活跃|开源|农夫乐事：重织|Farmer's Delight Refabricated 运行环境: 客户端需装, 服务端需装
+[冰山] Iceberg 搜索到的MOD：活跃|开源|冰山|Iceberg 运行环境: 客户端需装, 服务端可选
+[匠魂] TConstruct 搜索到的MOD：停更|闭源|匠魂JSON生成器|TConstruct JSON Generator 运行环境: 客户端需装, 服务端无效
+[匠魂杂物] Tinker 搜索到的MOD：活跃|开源|匠魂杂物|Tinkers' Things 运行环境: 客户端需装, 服务端需装
+[匠魂蓝图] tconplanner 搜索到的MOD：半弃坑|开源|匠魂蓝图|Tinker's Planner 运行环境: 客户端需装, 服务端无效
+[可视性能侦测] observable 搜索到的MOD：活跃|开源|可视性能侦测|Observable 运行环境: 客户端可选, 服务端需装
+[叶间穿行 🌳] PassableFoliage 获取失败
+[合成辅助] craftingtweaks 搜索到的MOD：活跃|合成辅助|Crafting Tweaks 运行环境: 客户端可选, 服务端可选
+[哥布林商人] goblintraders 搜索到的MOD：活跃|开源|哥布林商人|Goblin Traders 运行环境: 客户端需装, 服务端需装
+[地幔] Mantle 搜索到的MOD：活跃|开源|地幔|Mantle 运行环境: 客户端需装, 服务端需装
+[地牢浮现之时] DungeonsArise 获取失败
+[坚固地牢] stalwart 搜索到的MOD：活跃|闭源|坚固地牢|Stalwart Dungeons 运行环境: 客户端需装, 服务端需装
+[垃圾槽] trashslot 搜索到的MOD：活跃|垃圾槽|TrashSlot 运行环境: 客户端可选, 服务端需装
+[失落废墟] Rex's 搜索到的MOD：活跃|开源|[AS]|失落废墟|Additional Structures/Rex's Additional Structures 运行环境: 客户端可选, 服务端需装
+[夸克] Quark3.2 获取失败
+[夸克] Quark3.2 获取失败
+[存储标签] labels 搜索到的MOD：活跃|存储标签|Storage Labels 运行环境: 客户端需装, 服务端需装
+[存档置顶] cherishedworlds 搜索到的MOD：活跃|开源|存档置顶|Cherished Worlds 运行环境: 客户端需装, 服务端无效
+[实体渲染机制优化] entityculling 搜索到的MOD：活跃|实体渲染机制优化：非官方版|EntityCulling Unofficial 运行环境: 客户端需装, 服务端无效
+[客户端微调] clienttweaks 搜索到的MOD：活跃|客户端微调|Client Tweaks 运行环境: 客户端需装, 服务端无效
+[属性修复] AttributeFix 搜索到的MOD：活跃|开源|属性修复|AttributeFix 运行环境: 客户端需装, 服务端需装
+[崩溃优化] notenoughcrashes 搜索到的MOD：活跃|开源|[NEC]|崩溃优化|Not Enough Crashes 运行环境: 客户端可选, 服务端可选
+[帕秋莉手册] Patchouli 搜索到的MOD：停更|开源|帕秋莉任务手册|Patchouli Quests 收录时间: 4年前
+[干净利落] cleancut 搜索到的MOD：停更|开源|干净利落|CleanCut 运行环境: 客户端需装, 服务端无效
+[建筑手杖] constructionwand 搜索到的MOD：半弃坑|开源|建筑手杖|Construction Wand 运行环境: 客户端需装, 服务端需装
+[护甲上限突破] overloadedarmorbar 搜索到的MOD：活跃|护甲上限突破|Overloaded Armor Bar 运行环境: 客户端需装, 服务端无效
+[拾取提示] PickUpNotifier 搜索到的MOD：活跃|开源|[PN]|拾取提示|Pick Up Notifier 运行环境: 客户端需装, 服务端可选
+[探险者指南针] ExplorersCompass 搜索到的MOD：活跃|开源|探险者指南针|Explorer's Compass 运行环境: 客户端需装, 服务端需装
+[提示] Tips 搜索到的MOD：活跃|开源|提示|Tips 运行环境: 客户端需装, 服务端无效
+[无限附魔修复] BowInfinityFix 搜索到的MOD：活跃|开源|[BIF]|无限附魔修复|Bow Infinity Fix 运行环境: 客户端需装, 服务端需装
+[星光] starlight 搜索到的MOD：活跃|开源|永恒星光|Eternal Starlight 运行环境: 客户端需装, 服务端需装
+[暮色乐事] TwilightDelight 搜索到的MOD：停更|开源|暮色乐事|Twilight Delight 运行环境: 客户端需装, 服务端需装
+[暮色乐事：冰雪豪饮] TwilightDelightFrozenPride 获取失败
+[暮色森林] twilightforest 搜索到的MOD：活跃|开源|斯巴达的武器：暮色森林|Spartan Weaponry: Twilight Forest 运行环境: 客户端需装, 服务端需装
+[更多熔炉] ironfurnaces 搜索到的MOD：活跃|开源|更多熔炉|Iron Furnaces 运行环境: 客户端需装, 服务端需装
+[更好的刷怪笼控制] betterspawnercontrol 获取失败
+[更好的延迟显示] BetterPingDisplay 搜索到的MOD：活跃|开源|[BP]|更好的延迟显示|Better Ping Display 运行环境: 客户端需装, 服务端无效
+[更好的模组按钮] BetterModsButton 搜索到的MOD：活跃|开源|更好的模组按钮|Better Mods Button 运行环境: 客户端需装, 服务端无效
+[更好的进度] BetterAdvancements 搜索到的MOD：活跃|开源|更好的进度|Better Advancements 运行环境: 客户端需装, 服务端无效
+[更高级联机设置] mcwifipnp 搜索到的MOD：活跃|开源|[mcwifipnp]|更高级联机设置|LAN World Plug-n-Play 运行环境: 客户端需装, 服务端无效
+[月亮事件] Enhanced 搜索到的MOD：停更|开源|月亮事件扩展：第二月亮|ECE - Enhanced Celestial Enhancement: The Second Moon 运行环境: 客户端需装, 服务端需装
+[末地乐事] ends 搜索到的MOD：活跃|开源|末地乐事|End's Delight 运行环境: 客户端需装, 服务端需装
+[末地：创世] endrem 搜索到的MOD：活跃|开源|[ER]|末地：创世|End Remastered 运行环境: 客户端需装, 服务端需装
+[末影乐事] endersdelight 搜索到的MOD：活跃|开源|末影乐事|Ender's Delight 运行环境: 客户端需装, 服务端需装
+[树叶快速腐烂] FastLeafDecay 搜索到的MOD：活跃|闭源|树叶快速腐烂|Fast Leaf Decay 运行环境: 客户端无效, 服务端需装
+[氪Forge版] krypton 搜索到的MOD：停更|开源|氪Forge版|Krypton Reforged 运行环境: 客户端可选, 服务端可选
+[没有史莱姆的超平坦世界] superflatworldnoslimes 获取失败
+[没有配方书重制版] norecipebookreborn 搜索到的MOD：停更|开源|没有配方书重制版|No Recipe Book Reborn 运行环境: 客户端需装, 服务端无效
+[治愈营火] healingcampfire 搜索到的MOD：活跃|开源|治愈营火|Healing Campfire 运行环境: 客户端需装, 服务端需装
+[游戏阶段] GameStages 搜索到的MOD：停更|开源|更好的任务-游戏阶段扩展|Better Questing - Gamestages Expansion 运行环境: 客户端需装, 服务端需装
+[火把弓] [1.18.x][Forge]TorchBowMod 获取失败
+[物品栏HUD+] invhud.forge.1.18.2 获取失败
+[物品物理掉落] ItemPhysicLite 搜索到的MOD：停更|开源|物品物理掉落：轻量版 - Fabric|ItemPhysic Lite - Fabric 运行环境: 客户端需装, 服务端需装
+[物品过滤器] item 搜索到的MOD：活跃|开源|物品过滤器|Item Filters​ 运行环境: 客户端需装, 服务端需装
+[物品高亮] Highlighter 搜索到的MOD：活跃|开源|物品高亮|Item Highlighter 运行环境: 客户端需装, 服务端无效
+[玉 🔍] Jade 获取失败
+[玩家救援] PlayerRevive 搜索到的MOD：活跃|开源|玩家救援|PlayerRevive 运行环境: 客户端需装, 服务端需装
+[现代化 UI] ModernUI 搜索到的MOD：活跃|开源|[MUI]|现代化 UI|Modern UI 运行环境: 客户端可选, 服务端可选
+[现代化修复] modernfix 搜索到的MOD：活跃|开源|现代化修复|ModernFix 运行环境: 客户端可选, 服务端可选
+[盔甲韧性显示] toughnessbar 搜索到的MOD：停更|开源|盔甲韧性显示|Armor Toughness Bar 运行环境: 客户端需装, 服务端无效
+[禁用实验性设置警告] shutupexperimentalsettings 获取失败
+[精妙存储] sophisticatedstorage 搜索到的MOD：活跃|开源|精妙存储|Sophisticated Storage 运行环境: 客户端需装, 服务端需装
+[精妙核心] sophisticatedcore 搜索到的MOD：活跃|开源|精妙核心|Sophisticated Core 运行环境: 客户端需装, 服务端需装
+[精妙背包] sophisticatedbackpacks 搜索到的MOD：活跃|开源|精妙背包（非官方 Fabric 分支）|Sophisticated Backpacks (Unofficial Fabric port) 运行环境: 客户端需装, 服务端需装
+[经验之书] xptome 搜索到的MOD：活跃|开源|经验之书|Xp Tome 运行环境: 客户端需装, 服务端需装
+[结构变体] repurposed 搜索到的MOD：活跃|开源|结构变体：老鼠兼容数据包|Repurposed Structures - Rats Compat Datapack 运行环境: 客户端可选, 服务端需装
+[自动汉化更新] I18nUpdateMod 获取失败
+[自定义光标] ForgeCustomCursorMod 获取失败
+[自定义准心] custom 搜索到的MOD：活跃|开源|[CCM]|自定义准心|Custom Crosshair Mod 运行环境: 客户端需装, 服务端无效
+[自定义游戏加载界面] drippyloadingscreen 获取失败
+[苹果皮] appleskin 搜索到的MOD：活跃|开源|[AS]|苹果皮|AppleSkin 运行环境: 客户端需装, 服务端可选
+[虚空图腾] voidtotem 搜索到的MOD：活跃|开源|虚空图腾|Void Totem 运行环境: 客户端需装, 服务端需装
+[被动搜索栏] PassiveSearchBar+Forge+1.18.2 搜索到的MOD：活跃|被动搜索栏|Passive SearchBar 运行环境: 客户端需装, 服务端无效
+[试验假人] MmmMmmMmmMmm 搜索到的MOD：活跃|开源|试验假人|MmmMmmMmmMmm / Target Dummy 运行环境: 客户端需装, 服务端需装
+[资源包惰性重载／抑验怠载] 0Pack2Reload 获取失败
+[边划边看] Boat 搜索到的MOD：停更|开源|边划边看|Boat Item View 运行环境: 客户端需装, 服务端无效
+[连锁破坏] ftb 搜索到的MOD：活跃|开源|连锁破坏|FTB Ultimine 运行环境: 客户端需装, 服务端需装
+[通用拼音搜索] jecharacters 搜索到的MOD：活跃|开源|[JECh]|通用拼音搜索|Just Enough Characters 运行环境: 客户端需装, 服务端无效
+[遗体] corpse 搜索到的MOD：活跃|开源|遗体|Corpse 运行环境: 客户端需装, 服务端需装
+[那不勒斯风味] neapolitan 搜索到的MOD：活跃|开源|那不勒斯风味|Neapolitan 运行环境: 客户端需装, 服务端需装
+[配置界面] configured 搜索到的MOD：活跃|开源|配置界面|Configured 运行环境: 客户端需装, 服务端可选
+[铁氧体磁芯] ferritecore 搜索到的MOD：活跃|开源|[FC]|铁氧体磁芯|FerriteCore 运行环境: 客户端可选, 服务端可选
+[键位冲突显示] Controlling 搜索到的MOD：活跃|开源|键位冲突显示|Controlling 运行环境: 客户端需装, 服务端无效
+[镁／铷：动态光源] dynamiclightsreforged 获取失败
+[附魔描述] EnchantmentDescriptions 搜索到的MOD：活跃|开源|附魔描述|Enchantment Descriptions 运行环境: 客户端需装, 服务端无效
+[鞘翅插槽] curiouselytra 搜索到的MOD：活跃|开源|鞘翅插槽|Curious Elytra / Elytra Trinket / Elytra Slot 运行环境: 客户端需装, 服务端需装
+[鼠标手势] MouseTweaks 搜索到的MOD：活跃|开源|鼠标手势|Mouse Tweaks 运行环境: 客户端需装, 服务端无效
